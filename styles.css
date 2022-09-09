@@ -98,12 +98,12 @@ header {
     margin-bottom: 30px;
 }
 .card {
-    min-height: 7em;
-    width: 30em;
+    min-height: 14em;
+    width: 90em;
     overflow: hidden;
     border-radius: 10px;
     margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 100px;
     transition: 0.7s ease;
     outline: none;
     background: var(--main-bg);
@@ -114,9 +114,10 @@ header {
 }
 .card-info {
     padding: 1em;
+    text-align: center;
 }
 .card-text {
-    font-size: 1.5em;
+    font-size: 2.5em;
     color: #000;
     text-overflow: ellipsis;
 }
@@ -137,6 +138,7 @@ header {
 }
 .content {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
