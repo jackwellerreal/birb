@@ -102,8 +102,6 @@ header {
     width: 90em;
     overflow: hidden;
     border-radius: 10px;
-    margin-right: 10px;
-    margin-bottom: 100px;
     transition: 0.7s ease;
     outline: none;
     background: var(--main-bg);
