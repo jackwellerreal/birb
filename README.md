@@ -2,7 +2,7 @@
 
 ## URL
 
-- https://what.is-a.dev/birb/
+- https://what-question-mark.github.io/birb/
 
 ## Made with:
 
